@@ -1,18 +1,18 @@
 # View-My-Posts-Alone
-=== Plugin Name ===
-Contributors: Naresh Kumar .P
-Plugin Name: View My Posts Alone       
-Tags: WP,contributor, guest writers, multiple authors, custom role users
-Author URI: http://coolguynaresh.blogspot.in/
-Author: Naresh Kumar .P        
-Donate link: 
-Requires at least: 3.0.1
-Tested up to: 4.7.3
-Stable tag: 1.0
-Version: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
+=== Plugin Name ===<br>
+Contributors: Naresh Kumar .P<br>
+Plugin Name: View My Posts Alone<br>       
+Tags: WP,contributor, guest writers, multiple authors, custom role users<br>
+Author URI: http://coolguynaresh.blogspot.in/<br>
+Author: Naresh Kumar .P        <br>
+Donate link: <br>
+Requires at least: 3.0.1 <br>
+Tested up to: 4.7.3 <br>
+Stable tag: 1.0 <br>
+Version: 1.0 <br>
+License: GPLv2 or later <br>
+License URI: http://www.gnu.org/licenses/gpl-2.0.html <br>
+<br>
 This Allows contributors,students,writers of a blog,article to only view and manage their own posts which they have contributed and they might not be able to view what others have contributed.
 
 == Description ==
