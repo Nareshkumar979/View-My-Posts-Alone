@@ -1,5 +1,5 @@
 # View-My-Posts-Alone
-=== Plugin Name ===<br>
+=== View My Posts Alone ===<br>
 Contributors: Naresh Kumar .P<br>
 Plugin Name: View My Posts Alone<br>       
 Tags: WP,contributor, guest writers, multiple authors, custom role users<br>
