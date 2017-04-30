@@ -1,11 +1,11 @@
-=== View My Posts Alone ===
-Contributors: nareshkumar1516
-Tags: multiple authors,blog writers, custom user roles, contributors, blogs, dashbaord
-Requires at least: 3.0.1
-Tested up to: 4.7.3
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== View My Posts Alone ===<br>
+Contributors: nareshkumar1516<br>
+Tags: multiple authors,blog writers, custom user roles, contributors, blogs, dashbaord<br>
+Requires at least: 3.0.1<br>
+Tested up to: 4.7.3<br>
+Stable tag: 1.0<br>
+License: GPLv2 or later<br>
+License URI: http://www.gnu.org/licenses/gpl-2.0.html<br>
 
 It will display only the concerned contributor posts and other details of that contributor for the posts types and the Custom Post Type.
 
